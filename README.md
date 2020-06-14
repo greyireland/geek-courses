@@ -6,5 +6,4 @@
 
 ## 目录
 
-- [算法](algo.pdf)
-- [左耳听风](distributed.pdf)
+- [Go](go.pdf)
